@@ -1,4 +1,4 @@
-Simple hello world beginer tutorial with Node.js and Express
+Simple hello world beginner tutorial with Node.js and Express
 
 What is Node.js?
 - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. 
