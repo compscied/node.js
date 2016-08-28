@@ -3,6 +3,10 @@ Simple hello world beginer tutorial with Node.js and Express
 What is Node.js?
 - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. 
 
+Goal of this tutorial
+- we will build the simple web server and server side application that will respond with Hello World
+- expected time to complete this tutorial: 5 minutes
+
 Download here:
 - https://nodejs.org/en/
 
